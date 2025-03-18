@@ -20,7 +20,7 @@ Insira os nomes dos seus amigos.
 
 Realize o sorteio.
 
-Visualize os pares sorteados.
+Visualize os nomes sorteados.
 
 Exemplo de Uso
 
